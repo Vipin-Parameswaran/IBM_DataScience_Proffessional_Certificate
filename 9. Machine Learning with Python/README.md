@@ -5,7 +5,7 @@ This course provides an overview of the purpose of Machine Learning, and where i
 
 To explore the methods of machine learning, and the algorithms involved, many example projects are embarked upon and explored, including cancer detection, predicting economic trends, predicting customer churn, and recommendation engines. 
 
-The [final project](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Final%20Project/Machine%20Learning%20with%20Python%20-%20The%20Best%20Classifier.ipynb) within this course is the building of a classifier to predict whether a loan case will be paid off. It is a classification problem, and KNN, Decision Tree, SVM, and Logistic Regression are all used to determine the best algorithm to use.
+The [final project](https://github.com/Vipin-Parameswaran/IBM_DataScience_Proffessional_Certificate/tree/main/9.%20Machine%20Learning%20with%20Python/FINAL%20ASSIGNMENT) within this course is the building of a classifier to predict whether a loan case will be paid off. It is a classification problem, and KNN, Decision Tree, SVM, and Logistic Regression are all used to determine the best algorithm to use.
 
 ## 📑 Main Topics 
 ### Introduction to Machine Learning
