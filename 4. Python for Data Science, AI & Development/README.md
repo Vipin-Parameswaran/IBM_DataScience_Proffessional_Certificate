@@ -13,5 +13,3 @@ This course teaches Python fundamentals, including data structures and data anal
 - Core Python programming skills
 - Data Analysis in Python using Pandas and Numpy libraries
 
-## 🏆 Certificates 
-To verify the certificates, click the images to follow the links.
